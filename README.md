@@ -9,4 +9,4 @@ To practice git with group project members
 
 Our project name: AutoRealm
 
-## Changed in `development` branch
+## Changed in `development`
