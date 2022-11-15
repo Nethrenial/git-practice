@@ -6,5 +6,3 @@ To practice git with group project members
 - Avishka Sathyanjana
 - Tharushi Chethana
 - Supun Dilshan
-
-Our project name: AutoRealm
