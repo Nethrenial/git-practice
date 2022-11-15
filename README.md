@@ -8,3 +8,5 @@ To practice git with group project members
 - Supun Dilshan
 
 A conflict will happen here
+
+This line was added by nethsara
