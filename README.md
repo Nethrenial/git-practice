@@ -7,4 +7,4 @@ To practice git with group project members
 - Tharushi Chethana
 - Supun Dilshan
 
-A merge will happen here
+A conflict will happen here
