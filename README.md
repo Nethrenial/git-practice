@@ -6,3 +6,5 @@ To practice git with group project members
 - Avishka Sathyanjana
 - Tharushi Chethana
 - Supun Dilshan
+
+A merge will happen here
